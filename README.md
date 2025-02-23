@@ -11,3 +11,5 @@ revealing systematic biases and distortions in AI-generated responses.
 - **Systematic bias in AI-generated political preferences.** Base models tended to skew toward right-wing populist parties, while aligned models (trained with RLHF) leaned toward establishment parties.
 - **Prompt sensitivity and instability.** Small changes in question phrasing led to significant variations in LLM responses.
 - **Entropy as a diversity measure.** We use entropy to quantify how AI-generated political opinions cluster around dominant choices instead of reflecting a broad spectrum of views.
+
+📌 This study has been preregistered on the Open Science Framework (OSF). You can access the registration details here: [OSF Registration](https://osf.io/2hmb5).
